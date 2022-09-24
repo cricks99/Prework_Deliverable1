@@ -1,0 +1,30 @@
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.exe
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.deps.json
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.runtimeconfig.json
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.dll
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.pdb
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.csproj.AssemblyReference.cache
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.AssemblyInfoInputs.cache
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.AssemblyInfo.cs
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.dll
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\refint\Deliverable1.dll
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.pdb
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.genruntimeconfig.cache
+C:\Users\Craig Ricks\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\ref\Deliverable1.dll
+M:\GrandCircus\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.exe
+M:\GrandCircus\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.deps.json
+M:\GrandCircus\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.runtimeconfig.json
+M:\GrandCircus\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.dll
+M:\GrandCircus\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.pdb
+M:\GrandCircus\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.csproj.AssemblyReference.cache
+M:\GrandCircus\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+M:\GrandCircus\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.AssemblyInfoInputs.cache
+M:\GrandCircus\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.AssemblyInfo.cs
+M:\GrandCircus\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.csproj.CoreCompileInputs.cache
+M:\GrandCircus\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.dll
+M:\GrandCircus\Deliverable1\Deliverable1\obj\Debug\net6.0\refint\Deliverable1.dll
+M:\GrandCircus\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.pdb
+M:\GrandCircus\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.genruntimeconfig.cache
+M:\GrandCircus\Deliverable1\Deliverable1\obj\Debug\net6.0\ref\Deliverable1.dll
